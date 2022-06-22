@@ -1,0 +1,16 @@
+.card {
+  position: relative;
+  word-break: break-all;
+}
+
+.borderRadius {
+  border-radius: var(--radius-l);
+}
+
+.padding {
+  padding: var(--spacing-m);
+}
+
+.boxShadow {
+  box-shadow: var(--shadow);
+}
