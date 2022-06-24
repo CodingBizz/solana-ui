@@ -1,0 +1,16 @@
+.roundedButton{
+    border-radius: 30px;
+    color: white;
+    background-color: #2167AE;
+    padding: 6px 8px 6px 8px;
+    /* font-size: 10.5px; */
+    max-width: 150px;
+    margin-top: 20px;
+    /* font-family: 'Zurich Sans Regular'; */
+    cursor: pointer;
+}
+
+
+.label{
+    font-size: 14px;
+}
